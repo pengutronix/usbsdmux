@@ -1,0 +1,5 @@
+usbsdmux (0.2.0) unstable; urgency=medium
+
+  * create initial package
+
+ -- Jan Lübbe <jlu@pengutronix.de>  Tue, 04 May 2021 14:35:20 +0200

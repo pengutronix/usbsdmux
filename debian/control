@@ -1,0 +1,11 @@
+Source: usbsdmux
+Maintainer: Jan Lübbe <jlu@pengutronix.de>
+Section: python
+Priority: optional
+Build-Depends: debhelper (>= 12), dh-python, python3
+Standards-Version: 4.3.0
+
+Package: usbsdmux
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}
+Description: Tool to control an usb-sd-mux from the command line
