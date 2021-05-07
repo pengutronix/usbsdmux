@@ -6,3 +6,5 @@ dist/
 *.venv
 .tox/
 envs/
+deb_dist/
+usbsdmux-*.tar.gz

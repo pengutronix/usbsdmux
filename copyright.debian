@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: usbsdmux
+Upstream-Contact: info@linux-automation.com
+Source: https://github.com/linux-automation/usbsdmux
+
+Files: *
+Copyright: 2017-2021, Pengutronix <entwicklung@pengutronix.de>
+License: LGPL-2.1+
+
+Files: ./fastentrypoints.py
+Copyright: 2016, Aaron Christianson
+License: BSD-2-clause
